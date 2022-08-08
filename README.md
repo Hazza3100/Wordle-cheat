@@ -1,4 +1,4 @@
-# Wordle-cheat
+# Wordle cheat
 
 This explains how using local storage is bad for storing data.
 
