@@ -10,3 +10,4 @@ Wordle is great site and popular, but this weakness let's it down because the an
 
 
 ![Wordle](https://github.com/[Hazza3100]/[Wordle-cheat]/blob/[main]/wordle.png?raw=true)
+![Screenshot](wordle.png)
