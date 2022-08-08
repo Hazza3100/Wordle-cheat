@@ -9,4 +9,4 @@ Paste the index.js into your console on developer tab and it will show "solution
 Wordle is great site and popular, but this weakness let's it down because the answer is stored locally before getting the correct answer.
 
 
-![alt text](https://github.com/[Hazza3100]/[Wordle-cheat]/blob/[branch]/wordle.png?raw=true)
+![Wordle](https://github.com/[Hazza3100]/[Wordle-cheat]/blob/[main]/wordle.png?raw=true)
